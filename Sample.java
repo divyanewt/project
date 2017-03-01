@@ -1,7 +1,7 @@
 class Sample{
 public static void main(String args[])
 {
-System.out.println("haiii");
+System.out.println("hello");
 }
 }
 class Demo1{
